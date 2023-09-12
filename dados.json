@@ -11,7 +11,7 @@
         "news": [
             {
                 "id": 1,
-                "description": "Um orçamento bem planejado é o segredo para o sucesso financeiro, Bryan. Fale com seu gerente."
+                "description": "Gerencie suas despesas com sabedoria, Bryan. Seu gerente pode ajudar. Entre em contato!"
             }
         ]
     },
@@ -27,7 +27,7 @@
         "news": [
             {
                 "id": 3,
-                "description": "Descubra os investimentos mais seguros e rentáveis conosco, Diego. Seu gerente está pronto para ajudar!"
+                "description": "Não deixe seu dinheiro parado, Diego. Invista agora em opções seguras. Converse com seu gerente!"
             }
         ]
     },
@@ -59,11 +59,11 @@
         "news": [
             {
                 "id": 2,
-                "description": "Aproveite os benefícios do seu cartão de crédito. Fale com seu gerente, Clarice!"
+                "description": "Clarice, seu cartão de crédito está pronto para uso! Saiba mais com seu gerente."
             },
             {
                 "id": 3,
-                "description": "Maximize seus ganhos com investimentos inteligentes. Seu gerente está à disposição para orientá-lo, Clarice."
+                "description": "Não deixe seu dinheiro parado, Clarice. Invista agora em opções seguras. Converse com seu gerente!"
             }
         ]
     },
@@ -79,7 +79,7 @@
         "news": [
             {
                 "id": 2,
-                "description": "Use seu cartão de crédito com benefícios exclusivos, Andrea. Consulte seu gerente agora!"
+                "description": "Andrea, seu cartão de crédito está pronto para uso! Saiba mais com seu gerente."
             },
             {
                 "id": 3,
@@ -99,7 +99,7 @@
         "news": [
             {
                 "id": 3,
-                "description": "Investir é a chave para o crescimento financeiro. Consulte seu gerente sobre as melhores oportunidades, Lorenzo."
+                "description": "Maximize seus ganhos com investimentos inteligentes. Seu gerente está à disposição para orientá-lo, Lorenzo."
             }
         ]
     },
@@ -112,7 +112,12 @@
         "avg_amount_spent": 429.23,
         "e_mail": "tomas.diogo.lopes@boll.com.br",
         "phone": 65984536717,
-        "news": "É um prazer tê-lo como nosso cliente. Conte sempre conosco."
+        "news": [
+            {
+                "id": 4,
+                "description": "É um prazer tê-lo como nosso cliente. Conte sempre conosco."
+            }
+        ]
     },
     {
         "account_no": 93871,
@@ -142,7 +147,7 @@
         "news": [
             {
                 "id": 3,
-                "description": "Não deixe seu dinheiro parado, Osvaldo. Invista agora em opções seguras. Converse com seu gerente!"
+                "description": "Descubra os investimentos mais seguros e rentáveis conosco, Osvaldo. Seu gerente está pronto para ajudar!"
             }
         ]
     }
