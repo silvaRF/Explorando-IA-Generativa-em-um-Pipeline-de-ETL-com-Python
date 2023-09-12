@@ -1,0 +1,149 @@
+[
+    {
+        "account_no": 21021,
+        "first_name": "Bryan",
+        "account_balance": 0.0,
+        "credit_card": "SIM",
+        "limit_card": 3000,
+        "avg_amount_spent": 1916.67,
+        "e_mail": "bryanvictormartins@afujita.com.br",
+        "phone": 66995460664,
+        "news": [
+            {
+                "id": 1,
+                "description": "Um orçamento bem planejado é o segredo para o sucesso financeiro, Bryan. Fale com seu gerente."
+            }
+        ]
+    },
+    {
+        "account_no": 93770,
+        "first_name": "Diego",
+        "account_balance": 2098.25,
+        "credit_card": "NÃO",
+        "limit_card": 0,
+        "avg_amount_spent": 0.0,
+        "e_mail": "diego_marcos_damata@antunez.com.br",
+        "phone": 91986126697,
+        "news": [
+            {
+                "id": 3,
+                "description": "Descubra os investimentos mais seguros e rentáveis conosco, Diego. Seu gerente está pronto para ajudar!"
+            }
+        ]
+    },
+    {
+        "account_no": 61725,
+        "first_name": "Milena",
+        "account_balance": 0.35,
+        "credit_card": "SIM",
+        "limit_card": 950,
+        "avg_amount_spent": 874.0,
+        "e_mail": "milenagiovanadamata@semco.com.br",
+        "phone": 21981832531,
+        "news": [
+            {
+                "id": 1,
+                "description": "Gerencie suas despesas com sabedoria, Milena. Seu gerente pode ajudar. Entre em contato!"
+            }
+        ]
+    },
+    {
+        "account_no": 64375,
+        "first_name": "Clarice",
+        "account_balance": 10000.43,
+        "credit_card": "SIM",
+        "limit_card": 25000,
+        "avg_amount_spent": 0.0,
+        "e_mail": "clarice_drumond@lencise.com",
+        "phone": 83999187755,
+        "news": [
+            {
+                "id": 2,
+                "description": "Aproveite os benefícios do seu cartão de crédito. Fale com seu gerente, Clarice!"
+            },
+            {
+                "id": 3,
+                "description": "Maximize seus ganhos com investimentos inteligentes. Seu gerente está à disposição para orientá-lo, Clarice."
+            }
+        ]
+    },
+    {
+        "account_no": 18600,
+        "first_name": "Andrea",
+        "account_balance": 4863.2,
+        "credit_card": "SIM",
+        "limit_card": 30000,
+        "avg_amount_spent": 0.0,
+        "e_mail": "andrea_esther_sales@alcoa.com.br",
+        "phone": 69984895109,
+        "news": [
+            {
+                "id": 2,
+                "description": "Use seu cartão de crédito com benefícios exclusivos, Andrea. Consulte seu gerente agora!"
+            },
+            {
+                "id": 3,
+                "description": "Não deixe seu dinheiro parado, Andrea. Invista agora em opções seguras. Converse com seu gerente!"
+            }
+        ]
+    },
+    {
+        "account_no": 58193,
+        "first_name": "Lorenzo",
+        "account_balance": 3998.57,
+        "credit_card": "NÃO",
+        "limit_card": 0,
+        "avg_amount_spent": 0.0,
+        "e_mail": "lorenzo-assuncao91@yahoo.com.br",
+        "phone": 21984918700,
+        "news": [
+            {
+                "id": 3,
+                "description": "Investir é a chave para o crescimento financeiro. Consulte seu gerente sobre as melhores oportunidades, Lorenzo."
+            }
+        ]
+    },
+    {
+        "account_no": 27547,
+        "first_name": "Tomás",
+        "account_balance": 129.36,
+        "credit_card": "SIM",
+        "limit_card": 3000,
+        "avg_amount_spent": 429.23,
+        "e_mail": "tomas.diogo.lopes@boll.com.br",
+        "phone": 65984536717,
+        "news": "É um prazer tê-lo como nosso cliente. Conte sempre conosco."
+    },
+    {
+        "account_no": 93871,
+        "first_name": "Fernando",
+        "account_balance": 1541.0,
+        "credit_card": "SIM",
+        "limit_card": 10000,
+        "avg_amount_spent": 4286.87,
+        "e_mail": "fernando-peixoto82@dcazzainteriores.com.br",
+        "phone": 24988797415,
+        "news": [
+            {
+                "id": 3,
+                "description": "Maximize seus ganhos com investimentos inteligentes. Seu gerente está à disposição para orientá-lo, Fernando."
+            }
+        ]
+    },
+    {
+        "account_no": 24230,
+        "first_name": "Osvaldo",
+        "account_balance": 20043.02,
+        "credit_card": "NÃO",
+        "limit_card": 0,
+        "avg_amount_spent": 0.0,
+        "e_mail": "osvaldo-alves90@ggm.com.br",
+        "phone": 77986815594,
+        "news": [
+            {
+                "id": 3,
+                "description": "Não deixe seu dinheiro parado, Osvaldo. Invista agora em opções seguras. Converse com seu gerente!"
+            }
+        ]
+    }
+]
