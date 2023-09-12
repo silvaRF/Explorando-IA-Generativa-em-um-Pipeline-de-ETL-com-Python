@@ -19,6 +19,7 @@ Gerar um JSON enriquecendo a base de dados fornecida com mensagens personalizada
 - Clientes com média de gastos superior a 60% do limite devem receber dicas de controle de gastos.
 - Clientes com cartão de crédito disponível e sem valor médio de gastos devem receber informação sobre a disponibilidade do produto.
 - Clientes com saldo maior que R$500 devem receber informações sobre a importância de investimentos e possíveis opções.
+- Cenário extra: cliente que não se encaixar nos cenários anteriores deve receber a mensagem "É um prazer tê-lo como nosso cliente. Conte sempre conosco."
 
 ## OBSERVAÇÃO
 A base de dados é ilustrativa, gerada aleatoriamente e não corresponde a informações reais.
